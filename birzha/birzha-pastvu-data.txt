@@ -1,0 +1,7 @@
+1906 Russia,1906 Saint Petersburg,1906 Vasileostrovsky District
+1903 Russia,1903 Saint Petersburg,1903 Vasileostrovsky District,1903 – 1905 Russia,1903 – 1905 Saint Petersburg,1903 – 1905 Vasileostrovsky District,1905 Russia,1905 Saint Petersburg,1905 Vasileostrovsky District
+1892 Russia,1892 Saint Petersburg,1892 Vasileostrovsky District,1892 – 1910 Russia,1892 – 1910 Saint Petersburg,1892 – 1910 Vasileostrovsky District,1910 Russia,1910 Saint Petersburg,1910 Vasileostrovsky District
+1948 Russia,1948 Saint Petersburg,1948 Vasileostrovsky District
+1902 Russia,1902 Saint Petersburg,1902 Vasileostrovsky District
+1892 Russia,1892 Saint Petersburg,1892 Vasileostrovsky District,1892 – 1910 Russia,1892 – 1910 Saint Petersburg,1892 – 1910 Vasileostrovsky District,1910 Russia,1910 Saint Petersburg,1910 Vasileostrovsky District
+1947 Russia,1947 Saint Petersburg,1947 Vasileostrovsky District,1947 – 1950 Russia,1947 – 1950 Saint Petersburg,1947 – 1950 Vasileostrovsky District,1950 Russia,1950 Saint Petersburg,1950 Vasileostrovsky District

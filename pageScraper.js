@@ -19,9 +19,10 @@ const start = async (url) => {
 		return Array.from(document.querySelectorAll(".info.title")).map(x => x.textContent)
 	})
 	
-		await fs.writeFile("pastvu-data.txt", names + ',' +  names2 + '\n', {'flag':'a'})
-		await fs.writeFile("pastvu-links.txt", links + '\n', {'flag':'a'})
-		await fs.writeFile("links-order.txt", url + '\n', {'flag':'a'})
+		await fs.writeFile("vyazma-pastvu-title.txt", names2 + '\n', {'flag':'a'})
+		await fs.writeFile("vyazma-pastvu-data.txt", names + '\n', {'flag':'a'})
+		await fs.writeFile("vyazma-pastvu-links.txt", links + '\n', {'flag':'a'})
+		await fs.writeFile("vyazma-links-order.txt", url + '\n', {'flag':'a'})
 		// console.log(links)
 		console.log(url)
 
@@ -31,15 +32,19 @@ const start = async (url) => {
 	}
   }
   
-// start("https://pastvu.com/p/236800")
-// start("https://pastvu.com/p/144873")
-// start("https://pastvu.com/p/130639")
-// start("https://pastvu.com/p/130640")
-// start("https://pastvu.com/p/1455152")
-// start("https://pastvu.com/p/139985")
-// start("https://pastvu.com/p/150201")
-// start("https://pastvu.com/p/134825")
 
+// // grivcova
+
+// start("https://pastvu.com/p/1631361")
+// start("https://pastvu.com/p/115389")
+// start("https://pastvu.com/p/804234")
+// start("https://pastvu.com/p/636229")
+// start("https://pastvu.com/p/134555")
+// start("https://pastvu.com/p/600146")
+
+// // chajkovskogo
+
+// start("https://pastvu.com/p/134825")
 // start("https://pastvu.com/p/134823")
 // start("https://pastvu.com/p/271842")
 // start("https://pastvu.com/p/1028206")
@@ -49,15 +54,20 @@ const start = async (url) => {
 // start("https://pastvu.com/p/1028202")
 // start("https://pastvu.com/p/271836")
 
-// start("https://pastvu.com/p/1631361")
-// start("https://pastvu.com/p/115389")
-// start("https://pastvu.com/p/804234")
-// start("https://pastvu.com/p/636229")
-// start("https://pastvu.com/p/134555")
-// start("https://pastvu.com/p/600146")
+// // // birzha
+
+// start("https://pastvu.com/p/236800")
+// start("https://pastvu.com/p/144873")
+// start("https://pastvu.com/p/130639")
+// start("https://pastvu.com/p/130640")
+// start("https://pastvu.com/p/1455152")
+// start("https://pastvu.com/p/139985")
+// start("https://pastvu.com/p/150201")
+
+// // // kronv
+
 // start("https://pastvu.com/p/768410")
 // start("https://pastvu.com/p/1313747")
-
 // start("https://pastvu.com/p/115385")
 // start("https://pastvu.com/p/115386")
 // start("https://pastvu.com/p/115387")
@@ -65,7 +75,9 @@ const start = async (url) => {
 // start("https://pastvu.com/p/600248")
 // start("https://pastvu.com/p/1026531")
 // start("https://pastvu.com/p/1026532")
-
 // start("https://pastvu.com/p/115383")
-// start("https://pastvu.com/p/120900")
-// start("https://pastvu.com/p/702286")
+
+// // // vyazma
+
+start("https://pastvu.com/p/120900")
+start("https://pastvu.com/p/702286")
