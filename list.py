@@ -21,12 +21,12 @@ def aboba(adress):
     f.close()    
 
     f5 = open('temp.txt', 'r', encoding="utf8").read()
-    f6 = open(f'out.json', 'w', encoding="utf8")
+    f6 = open(f'out.json', 'a', encoding="utf8")
 
     f6.write('[' + '\n' + f5[:-2] +  '\n' + ']')
     f6.close()
-aboba('vyazma')
-aboba('kronv')
-aboba('grivcova')
-aboba('birzha')
-aboba('chajkovskogo')
+aboba('one')
+# aboba('kronv')
+# aboba('grivcova')
+# aboba('birzha')
+# aboba('chajkovskogo')
