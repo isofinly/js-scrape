@@ -1,0 +1,344 @@
+[
+{
+"id": 0,
+"title": "Вяземский переулок",
+"qr": "/qr_codes/buildings/qr0.png",
+"link": "https://pastvu.com/p/702286"
+},
+{
+"id": 1,
+"title": "Вяземский переулок",
+"qr": "/qr_codes/buildings/qr1.png",
+"link": "https://pastvu.com/p/120900"
+},
+{
+"id": 2,
+"title": "ЛИТМО. Занятия по военной подготовке",
+"qr": "/qr_codes/buildings/qr2.png",
+"link": "https://pastvu.com/p/115385"
+},
+{
+"id": 3,
+"title": "Студентки ЛИТМО за кульманом",
+"qr": "/qr_codes/buildings/qr3.png",
+"link": "https://pastvu.com/p/600246"
+},
+{
+"id": 4,
+"title": "Литмовцы собираются на демонстрацию",
+"qr": "/qr_codes/buildings/qr4.png",
+"link": "https://pastvu.com/p/1313747"
+},
+{
+"id": 5,
+"title": "ЛИТМО. Занятия по черчению",
+"qr": "/qr_codes/buildings/qr5.png",
+"link": "https://pastvu.com/p/115386"
+},
+{
+"id": 6,
+"title": "ЛИТМО. Свободное время",
+"qr": "/qr_codes/buildings/qr6.png",
+"link": "https://pastvu.com/p/115387"
+},
+{
+"id": 7,
+"title": "ЛИТМО",
+"qr": "/qr_codes/buildings/qr7.png",
+"link": "https://pastvu.com/p/768410"
+},
+{
+"id": 8,
+"title": "Строительство нового корпуса Ленинградского института точной механики и оптики",
+"qr": "/qr_codes/buildings/qr8.png",
+"link": "https://pastvu.com/p/1026532"
+},
+{
+"id": 9,
+"title": "На занятиях в ЛИТМО",
+"qr": "/qr_codes/buildings/qr9.png",
+"link": "https://pastvu.com/p/600248"
+},
+{
+"id": 10,
+"title": "ЛИТМО. Самостоятельные занятия по военной подготовке",
+"qr": "/qr_codes/buildings/qr10.png",
+"link": "https://pastvu.com/p/115383"
+},
+{
+"id": 11,
+"title": "Строительство нового корпуса Ленинградского института точной механики и оптики",
+"qr": "/qr_codes/buildings/qr11.png",
+"link": "https://pastvu.com/p/1026531"
+},
+{
+"id": 12,
+"title": "Возле ЛИТМО",
+"qr": "/qr_codes/buildings/qr12.png",
+"link": "https://pastvu.com/p/1631361"
+},
+{
+"id": 13,
+"title": "ЛИТМО. Столовая института",
+"qr": "/qr_codes/buildings/qr13.png",
+"link": "https://pastvu.com/p/115389"
+},
+{
+"id": 14,
+"title": "На военной кафедре ЛИТМО",
+"qr": "/qr_codes/buildings/qr14.png",
+"link": "https://pastvu.com/p/600146"
+},
+{
+"id": 15,
+"title": "Институт точной механики и оптики, надстройка здания",
+"qr": "/qr_codes/buildings/qr15.png",
+"link": "https://pastvu.com/p/636229"
+},
+{
+"id": 16,
+"title": "Надстройка здания ЛИТМО",
+"qr": "/qr_codes/buildings/qr16.png",
+"link": "https://pastvu.com/p/134555"
+},
+{
+"id": 17,
+"title": "ЛИТМО. Буфет в зале профессорско-преподавательского состава",
+"qr": "/qr_codes/buildings/qr17.png",
+"link": "https://pastvu.com/p/804234"
+},
+{
+"id": 18,
+"title": "Особняк П.С.Строганова на Сергиевской улице. Гостиная",
+"qr": "/qr_codes/buildings/qr18.png",
+"link": "https://pastvu.com/p/134823"
+},
+{
+"id": 19,
+"title": "Особняк П.С. Строганова. Парадная лестница с верхним вестибюлем",
+"qr": "/qr_codes/buildings/qr19.png",
+"link": "https://pastvu.com/p/271838"
+},
+{
+"id": 20,
+"title": "Особняк П.С. Строганова. Столовая",
+"qr": "/qr_codes/buildings/qr20.png",
+"link": "https://pastvu.com/p/271842"
+},
+{
+"id": 21,
+"title": "Особняк П.С.Строганова",
+"qr": "/qr_codes/buildings/qr21.png",
+"link": "https://pastvu.com/p/134825"
+},
+{
+"id": 22,
+"title": "Лазарет Датского отряда и Российского общества Красного Креста",
+"qr": "/qr_codes/buildings/qr22.png",
+"link": "https://pastvu.com/p/1028206"
+},
+{
+"id": 23,
+"title": "Особняк П.С.Строганова. Домовая церковь",
+"qr": "/qr_codes/buildings/qr23.png",
+"link": "https://pastvu.com/p/134822"
+},
+{
+"id": 24,
+"title": "Особняк П.С.Строганова. Домовая церковь",
+"qr": "/qr_codes/buildings/qr24.png",
+"link": "https://pastvu.com/p/134821"
+},
+{
+"id": 25,
+"title": "Особняк П.С. Строганова. Овальная гостиная",
+"qr": "/qr_codes/buildings/qr25.png",
+"link": "https://pastvu.com/p/271836"
+},
+{
+"id": 26,
+"title": "Лазарет Датского отряда и Российского общества Красного Креста",
+"qr": "/qr_codes/buildings/qr26.png",
+"link": "https://pastvu.com/p/1028202"
+},
+{
+"id": 27,
+"title": "Университетская столовая",
+"qr": "/qr_codes/buildings/qr27.png",
+"link": "https://pastvu.com/p/150201"
+},
+{
+"id": 28,
+"title": "Квартира почётного гражданина, купца I гильдии Г. Г. Елисеева",
+"qr": "/qr_codes/buildings/qr28.png",
+"link": "https://pastvu.com/p/144873"
+},
+{
+"id": 29,
+"title": "Особняк Елисеева. Зал",
+"qr": "/qr_codes/buildings/qr29.png",
+"link": "https://pastvu.com/p/130640"
+},
+{
+"id": 30,
+"title": "Биржевая линия. Здание Государственного оптического института.",
+"qr": "/qr_codes/buildings/qr30.png",
+"link": "https://pastvu.com/p/236800"
+},
+{
+"id": 31,
+"title": "Новая студенческая столовая при университете. Обеденный зал и буфет",
+"qr": "/qr_codes/buildings/qr31.png",
+"link": "https://pastvu.com/p/139985"
+},
+{
+"id": 32,
+"title": "Особняк Елисеева. Столовая",
+"qr": "/qr_codes/buildings/qr32.png",
+"link": "https://pastvu.com/p/130639"
+},
+{
+"id": 33,
+"title": "Биржевая линия",
+"qr": "/qr_codes/buildings/qr33.png",
+"link": "https://pastvu.com/p/1455152"
+},
+{
+"id": 34,
+"title": "Арбузов Валентин Михайлович",
+"qr": "qr_codes/people/qr0.png",
+"link": "https://web-project-app.vercel.app/People#0"
+},
+{
+"id": 35,
+"title": "Гессе Густав Юльевич",
+"qr": "qr_codes/people/qr1.png",
+"link": "https://web-project-app.vercel.app/People#1"
+},
+{
+"id": 36,
+"title": "Мейер Карл Францевич",
+"qr": "qr_codes/people/qr2.png",
+"link": "https://web-project-app.vercel.app/People#2"
+},
+{
+"id": 37,
+"title": "Ипполитов Николай Васильевич",
+"qr": "qr_codes/people/qr3.png",
+"link": "https://web-project-app.vercel.app/People#3"
+},
+{
+"id": 38,
+"title": "Бахшинов Александр Ваганович",
+"qr": "qr_codes/people/qr4.png",
+"link": "https://web-project-app.vercel.app/People#4"
+},
+{
+"id": 39,
+"title": "Бальян Хорен Ваганович",
+"qr": "qr_codes/people/qr5.png",
+"link": "https://web-project-app.vercel.app/People#5"
+},
+{
+"id": 40,
+"title": "Петров Иван Петрович",
+"qr": "qr_codes/people/qr6.png",
+"link": "https://web-project-app.vercel.app/People#6"
+},
+{
+"id": 41,
+"title": "Шиканов Сергей Александрович",
+"qr": "qr_codes/people/qr7.png",
+"link": "https://web-project-app.vercel.app/People#7"
+},
+{
+"id": 42,
+"title": "Коротков Владимир Петрович",
+"qr": "qr_codes/people/qr8.png",
+"link": "https://web-project-app.vercel.app/People#8"
+},
+{
+"id": 43,
+"title": "Капустин Александр Александрович",
+"qr": "qr_codes/people/qr9.png",
+"link": "https://web-project-app.vercel.app/People#9"
+},
+{
+"id": 44,
+"title": "Митрофанов Сергей Петрович",
+"qr": "qr_codes/people/qr10.png",
+"link": "https://web-project-app.vercel.app/People#10"
+},
+{
+"id": 45,
+"title": "Дульнев Геннадий Николаевич",
+"qr": "qr_codes/people/qr11.png",
+"link": "https://web-project-app.vercel.app/People#11"
+},
+{
+"id": 46,
+"title": "Новиков Геннадий Иванович",
+"qr": "qr_codes/people/qr12.png",
+"link": "https://web-project-app.vercel.app/People#12"
+},
+{
+"id": 47,
+"title": "Аборин Николай Юрьевич",
+"qr": "qr_codes/people/qr13.png",
+"link": "https://web-project-app.vercel.app/People#13"
+},
+{
+"id": 48,
+"title": "Авдеев Юрий Сергеевич",
+"qr": "qr_codes/people/qr14.png",
+"link": "https://web-project-app.vercel.app/People#14"
+},
+{
+"id": 49,
+"title": "Аврусин Петр Евсеевич",
+"qr": "qr_codes/people/qr15.png",
+"link": "https://web-project-app.vercel.app/People#15"
+},
+{
+"id": 50,
+"title": "Агальцова Надежда Алексеевна",
+"qr": "qr_codes/people/qr16.png",
+"link": "https://web-project-app.vercel.app/People#16"
+},
+{
+"id": 51,
+"title": "Агеев Михаил Дмитриевич",
+"qr": "qr_codes/people/qr17.png",
+"link": "https://web-project-app.vercel.app/People#17"
+},
+{
+"id": 52,
+"title": "Акаев Аскар Акаевич",
+"qr": "qr_codes/people/qr18.png",
+"link": "https://web-project-app.vercel.app/People#18"
+},
+{
+"id": 53,
+"title": "Азизов Азиз Мустафа оглы",
+"qr": "qr_codes/people/qr19.png",
+"link": "https://web-project-app.vercel.app/People#19"
+},
+{
+"id": 54,
+"title": "Алахов Евгений Константинович",
+"qr": "qr_codes/people/qr20.png",
+"link": "https://web-project-app.vercel.app/People#20"
+},
+{
+"id": 55,
+"title": "Алексеев Виктор Николаевич",
+"qr": "qr_codes/people/qr21.png",
+"link": "https://web-project-app.vercel.app/People#21"
+},
+{
+"id": 56,
+"title": "Архипов Геннадий Осипович",
+"qr": "qr_codes/people/qr22.png",
+"link": "https://web-project-app.vercel.app/People#22"
+}
+]
